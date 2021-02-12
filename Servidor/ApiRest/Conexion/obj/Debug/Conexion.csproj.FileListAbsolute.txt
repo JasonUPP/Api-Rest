@@ -1,0 +1,12 @@
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\Conexion.dll
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\EntityFramework.dll
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\EntityFramework.xml
+C:\Users\Jason\source\repos\ApiRest\Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jason\source\repos\ApiRest\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\ApiRest\Conexion\obj\Debug\Conexion.csproj.CopyComplete
+C:\Users\Jason\source\repos\ApiRest\Conexion\obj\Debug\Conexion.dll
+C:\Users\Jason\source\repos\ApiRest\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Jason\source\repos\ApiRest\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
